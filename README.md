@@ -14,3 +14,26 @@ made of another cylinder and then a prism for the eraser top. All of these shape
 created the scene that is in my project.
 
 <img width="365" height="286" alt="image" src="https://github.com/user-attachments/assets/69544bd5-a20b-4627-b8ba-0a74a643ab72" />
+
+Users can navigate the scene 
+with the mouse and keyboard. Just 
+like a game, users can go forward 
+and backward or left and right with 
+WASD. To go either up or down we 
+implemented the Q and E key to 
+navigate these directions. We also 
+wanted to speed up the camera by using the scroll wheel. Minus navigation, we also 
+implemented O and P to switch between orthographic and perspective. Both functions used 
+callbacks to process the keys or mouse buttons. 
+
+<img width="527" height="77" alt="image" src="https://github.com/user-attachments/assets/ccf34e5e-fd8d-4ca8-b9d9-9e9208fd547d" />
+
+A lot of the code used in this project is to be reused. We reused the same code for the 
+keyboard callbacks, but we changed the buttons that were connected to the callback. Same with 
+the lighting, I would reuse this code and then tweak the RBG, positions, and scaling for the 
+lighting. This made the project go by fast since everything we were adding to the project was just 
+repeated but with slights changed in their transitions.
+
+<img width="481" height="174" alt="image" src="https://github.com/user-attachments/assets/65eb5a4d-4d56-4972-8cb3-96676af4e92d" />
+
+
