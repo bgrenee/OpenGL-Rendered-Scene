@@ -1,4 +1,4 @@
-# 7-1_FinalProjectMilestones
+# OpenGL Rendered Scene
 
 My scene has a few objects. This scene is right on my nightstand which is next to my 
 desk. So, it is very helpful for working on the project. I took photos just in case but, I had a real 
